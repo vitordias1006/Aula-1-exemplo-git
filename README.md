@@ -11,7 +11,13 @@ Este é o meu primeiro repositório no GitHub. Estou começando minha jornada no
 - 📝 Projetos simples e tutoriais
 - 💡 Anotações e dicas
 - 🛠️ Experimentos com código
+
 # 🚀 Meu Prim! 👋
+#TESTE CONFLITO
+# YYYYYYYYYYYY
+ 
+Olá, mundo! 👋
+
 
 
 kkkllllllh
